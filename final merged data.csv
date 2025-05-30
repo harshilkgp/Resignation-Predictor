@@ -1,0 +1,264 @@
+EEID,Full Name,Project ID,Project Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Field of Study,Skills,Hire Date,Exit Date,Experience (Years),Performance Rating,Annual Salary,Tech Stack,Resigned (Y/N)
+E10001,John Smith,P001,Project Phoenix,Software Engineer,IT,Manufacturing,Male,Caucasian,32,Computer Science,"Python, SQL, AWS",5/12/2018,,5,4,"$95,000 ","Python, Django, PostgreSQL",N
+E10002,Emily Johnson,P001,Project Phoenix,Data Analyst,Finance,Manufacturing,Female,Caucasian,28,Statistics,"R, Tableau, Excel",3/15/2019,,4,3,"$85,000 ","R, Python, PowerBI",N
+E10003,Michael Chen,P001,Project Phoenix,DevOps Engineer,IT,Manufacturing,Male,Asian,35,Computer Engineering,"Docker, Kubernetes, Azure",7/22/2017,,6,5,"$110,000 ","AWS, Terraform, Jenkins",N
+E10004,Sarah Williams,P001,Project Phoenix,UX Designer,IT,Manufacturing,Female,Black,29,Design,"Figma, Adobe XD",9/5/2020,,3,4,"$90,000 ","Sketch, InVision",N
+E10005,David Kim,P001,Project Phoenix,Product Manager,IT,Manufacturing,Male,Asian,40,Business Administration,"Agile, Scrum",1/10/2016,,7,5,"$120,000 ","Jira, Confluence",N
+E10006,Jessica Brown,P001,Project Phoenix,QA Engineer,IT,Manufacturing,Female,Caucasian,31,Computer Science,"Selenium, JIRA",11/18/2019,10/15/2021,2,3,"$75,000 ","Java, TestNG",Y
+E10007,Robert Garcia,P002,Project Atlas,Senior Developer,IT,Research & Development,Male,Latino,38,Computer Science,"Java, Spring Boot",4/5/2015,,8,4,"$115,000 ","Java, Microservices",N
+E10008,Amanda Lee,P002,Project Atlas,Data Scientist,Finance,Research & Development,Female,Asian,33,Data Science,"Python, TensorFlow",6/20/2018,,5,5,"$105,000 ","Python, PyTorch",N
+E10009,Daniel Wilson,P002,Project Atlas,Cloud Architect,IT,Research & Development,Male,Caucasian,42,Computer Engineering,"AWS, GCP",2/14/2016,,7,5,"$130,000 ","AWS, Terraform",N
+E10010,Olivia Martinez,P002,Project Atlas,UI Developer,IT,Research & Development,Female,Latino,27,Computer Science,"React, JavaScript",8/9/2020,,3,4,"$88,000 ","React, Node.js",N
+E10011,James Taylor,P002,Project Atlas,Scrum Master,IT,Research & Development,Male,Black,45,Business Management,"Agile, Kanban",10/12/2014,,9,4,"$100,000 ","Jira, Confluence",N
+E10012,Sophia Anderson,P002,Project Atlas,Database Admin,IT,Research & Development,Female,Caucasian,36,Computer Science,"SQL, MongoDB",3/22/2017,,6,3,"$92,000 ","MySQL, PostgreSQL",N
+E10013,William Thomas,P003,Project Orion,Full Stack Developer,IT,Speciality Products,Male,Caucasian,30,Computer Science,"JavaScript, Node.js",7/15/2019,,4,4,"$98,000 ",MERN Stack,N
+E10014,Emma Hernandez,P003,Project Orion,Marketing Analyst,Marketing,Speciality Products,Female,Latino,29,Marketing,"SEO, Google Analytics",9/10/2020,,3,3,"$82,000 ","Google Ads, HubSpot",N
+E10015,Christopher Lopez,P003,Project Orion,Systems Engineer,Engineering,Speciality Products,Male,Latino,39,Electrical Engineering,"Linux, Bash",5/18/2016,,7,5,"$108,000 ","Python, Shell Scripting",N
+E10016,Ava Gonzalez,P003,Project Orion,HR Specialist,Human Resources,Speciality Products,Female,Latino,34,Human Resources,"Recruiting, Onboarding",11/5/2018,,5,4,"$78,000 ","Workday, BambooHR",N
+E10017,Matthew Perez,P003,Project Orion,Security Analyst,IT,Speciality Products,Male,Latino,37,Cybersecurity,"SIEM, Firewalls",4/22/2017,,6,4,"$112,000 ","Splunk, Wireshark",N
+E10018,Mia Rodriguez,P003,Project Orion,Content Writer,Marketing,Speciality Products,Female,Latino,28,English Literature,"Copywriting, Editing",2/14/2021,,2,3,"$65,000 ","WordPress, Grammarly",N
+E10019,Andrew Lewis,P004,Project Titan,AI Engineer,Engineering,Corporate,Male,Caucasian,41,Computer Science,"Python, ML",8/30/2015,,8,5,"$125,000 ","TensorFlow, PyTorch",N
+E10020,Isabella Walker,P004,Project Titan,Financial Analyst,Finance,Corporate,Female,Black,31,Finance,"Excel, Financial Modeling",6/10/2019,,4,4,"$87,000 ","SAP, Oracle",N
+E10021,Joshua Hall,P004,Project Titan,Network Engineer,IT,Corporate,Male,Caucasian,36,Network Engineering,"Cisco, Firewalls",3/5/2017,,6,4,"$102,000 ","CCNA, VPN",N
+E10022,Samantha Young,P004,Project Titan,Recruiter,Human Resources,Corporate,Female,Asian,29,Psychology,"Interviewing, Sourcing",9/22/2020,,3,3,"$72,000 ",LinkedIn Recruiter,N
+E10023,Ethan Allen,P004,Project Titan,Backend Developer,IT,Corporate,Male,Caucasian,33,Computer Science,"Java, Spring",7/8/2018,,5,4,"$96,000 ","Java, Kafka",N
+E10024,Madison King,P004,Project Titan,Frontend Developer,IT,Corporate,Female,Black,27,Computer Science,"React, TypeScript",1/15/2021,,2,3,"$85,000 ","React, Redux",N
+E10025,Alexander Wright,P005,Project Nebula,Data Engineer,IT,Manufacturing,Male,Caucasian,38,Computer Science,"Spark, Hadoop",5/20/2016,,7,5,"$118,000 ","Python, SQL",N
+E10026,Charlotte Scott,P005,Project Nebula,Product Designer,IT,Manufacturing,Female,Caucasian,30,Design,"UI/UX, Prototyping",10/12/2019,,4,4,"$94,000 ","Figma, Sketch",N
+E10027,Benjamin Green,P005,Project Nebula,IT Support,IT,Manufacturing,Male,Black,29,Information Technology,"Helpdesk, Troubleshooting",2/18/2020,,3,3,"$60,000 ","Windows, macOS",N
+E10028,Amelia Adams,P005,Project Nebula,Business Analyst,Finance,Manufacturing,Female,Caucasian,35,Business Administration,Requirements Gathering,8/5/2017,,6,4,"$89,000 ","Excel, Visio",N
+E10029,Daniel Baker,P005,Project Nebula,QA Lead,IT,Manufacturing,Male,Asian,42,Computer Science,"Automation, Manual Testing",11/30/2015,,8,5,"$105,000 ","Selenium, JIRA",N
+E10030,Elizabeth Nelson,P005,Project Nebula,Marketing Manager,Marketing,Manufacturing,Female,Caucasian,45,Marketing,Campaign Management,4/15/2012,3/20/2021,9,4,"$95,000 ","Google Ads, HubSpot",Y
+E10031,Ryan Clark,P006,Project Aether,Backend Developer,IT,Research & Development,Male,Caucasian,34,Computer Science,"Java, Spring Boot",6/10/2018,,5,4,"$97,000 ","Java, PostgreSQL",N
+E10032,Chloe Rodriguez,P006,Project Aether,Data Analyst,Finance,Research & Development,Female,Latino,27,Mathematics,"Python, Pandas",1/22/2021,,2,3,"$80,000 ","Python, Tableau",N
+E10033,Nathan Scott,P006,Project Aether,DevOps Engineer,IT,Research & Development,Male,Caucasian,37,Computer Engineering,"AWS, Docker",9/14/2016,,7,5,"$112,000 ","Kubernetes, Terraform",N
+E10034,Victoria Nguyen,P006,Project Aether,UX Researcher,IT,Research & Development,Female,Asian,30,Psychology,"User Testing, Surveys",3/5/2020,,3,4,"$85,000 ","Qualtrics, Figma",N
+E10035,Samuel Hill,P006,Project Aether,Product Owner,IT,Research & Development,Male,Black,43,Business Administration,"Roadmapping, Prioritization",11/30/2014,,9,5,"$118,000 ","Jira, Confluence",N
+E10036,Lily Adams,P006,Project Aether,QA Engineer,IT,Research & Development,Female,Caucasian,29,Computer Science,Manual Testing,7/18/2020,,3,3,"$70,000 ","JIRA, TestRail",N
+E10037,Christopher Lee,P007,Project Helios,Full Stack Developer,IT,Speciality Products,Male,Asian,31,Computer Science,"JavaScript, React",5/12/2019,,4,4,"$93,000 ",MERN Stack,N
+E10038,Zoe Turner,P007,Project Helios,Marketing Specialist,Marketing,Speciality Products,Female,Caucasian,28,Marketing,"Social Media, Content",10/5/2020,,3,3,"$75,000 ","Hootsuite, Canva",N
+E10039,Andrew Parker,P007,Project Helios,Systems Administrator,Engineering,Speciality Products,Male,Caucasian,40,Information Technology,"Linux, Networking",4/22/2015,,8,4,"$90,000 ","Bash, Python",N
+E10040,Scarlett Evans,P007,Project Helios,HR Manager,Human Resources,Speciality Products,Female,Caucasian,38,Human Resources,Employee Relations,8/17/2016,,7,5,"$95,000 ","Workday, ADP",N
+E10041,Julian Wright,P007,Project Helios,Cybersecurity Analyst,IT,Speciality Products,Male,Black,35,Cybersecurity,"SIEM, Pen Testing",2/10/2018,,5,4,"$105,000 ","Wireshark, Nessus",N
+E10042,Aubrey Collins,P007,Project Helios,Technical Writer,Marketing,Speciality Products,Female,Caucasian,26,English,Documentation,12/1/2021,,1,3,"$62,000 ","Markdown, Confluence",N
+E10043,Dylan Cooper,P008,Project Vega,AI Researcher,Engineering,Corporate,Male,Caucasian,39,Computer Science,"Python, NLP",7/25/2016,,7,5,"$128,000 ","PyTorch, Transformers",N
+E10044,Addison Bennett,P008,Project Vega,Financial Controller,Finance,Corporate,Female,Caucasian,33,Accounting,"GAAP, Forecasting",9/10/2018,,5,4,"$92,000 ","QuickBooks, Excel",N
+E10045,Luke Richardson,P008,Project Vega,Cloud Engineer,IT,Corporate,Male,Caucasian,36,Computer Engineering,"AWS, Azure",3/15/2017,,6,4,"$110,000 ","Terraform, Ansible",N
+E10046,Hannah Murphy,P008,Project Vega,Talent Acquisition,Human Resources,Corporate,Female,Caucasian,30,Psychology,Recruiting Strategies,11/20/2019,,4,3,"$78,000 ","LinkedIn, Greenhouse",N
+E10047,Jackson Rivera,P008,Project Vega,Mobile Developer,IT,Corporate,Male,Latino,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$94,000 ","iOS, Android",N
+E10048,Penelope Brooks,P008,Project Vega,UI Designer,IT,Corporate,Female,Caucasian,27,Design,"Wireframing, Prototyping",2/14/2021,,2,3,"$82,000 ","Figma, Adobe XD",N
+E10049,Levi Sanders,P009,Project Sirius,Data Architect,IT,Manufacturing,Male,Caucasian,41,Computer Science,"Data Modeling, ETL",10/12/2015,,8,5,"$122,000 ","SQL, Snowflake",N
+E10050,Nora Price,P009,Project Sirius,Product Manager,IT,Manufacturing,Female,Caucasian,37,Business Administration,"Agile, Scrum",6/18/2017,,6,4,"$115,000 ","Jira, Miro",N
+E10051,Gabriel Simmons,P009,Project Sirius,IT Consultant,IT,Manufacturing,Male,Black,34,Information Systems,IT Strategy,4/22/2019,,4,4,"$98,000 ","PowerPoint, Visio",N
+E10052,Elena Foster,P009,Project Sirius,Business Intelligence,Finance,Manufacturing,Female,Caucasian,31,Statistics,"Power BI, SQL",8/5/2020,,3,3,"$87,000 ","Tableau, Excel",N
+E10053,David Powell,P009,Project Sirius,Automation Engineer,Engineering,Manufacturing,Male,Asian,39,Electrical Engineering,"PLC, Robotics",5/10/2016,,7,5,"$108,000 ","Python, ROS",N
+E10054,Maya Howard,P009,Project Sirius,Content Strategist,Marketing,Manufacturing,Female,Black,29,Communications,"SEO, Copywriting",1/15/2021,,2,3,"$73,000 ","WordPress, SEMrush",N
+E10055,Owen Ward,P010,Project Luna,Frontend Lead,IT,Research & Development,Male,Caucasian,35,Computer Science,"React, TypeScript",9/12/2018,,5,5,"$112,000 ","Next.js, GraphQL",N
+E10056,Ariana Reed,P010,Project Luna,Data Engineer,Finance,Research & Development,Female,Caucasian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$96,000 ","Airflow, AWS",N
+E10057,Leo Coleman,P010,Project Luna,Site Reliability Engineer,IT,Research & Development,Male,Black,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$118,000 ","Prometheus, Grafana",N
+E10058,Layla Bailey,P010,Project Luna,UX Designer,IT,Research & Development,Female,Caucasian,28,Design,"User Flows, Prototyping",11/18/2020,,3,4,"$88,000 ","Figma, Sketch",N
+E10059,Henry Cox,P010,Project Luna,Technical Program Manager,IT,Research & Development,Male,Caucasian,45,Business Administration,Project Planning,2/14/2013,,10,5,"$125,000 ","Jira, Confluence",N
+E10060,Stella Hayes,P010,Project Luna,QA Analyst,IT,Research & Development,Female,Caucasian,26,Computer Science,"Test Cases, Bug Tracking",6/10/2021,,2,3,"$68,000 ","Selenium, JIRA",N
+E10298,Ethan Rivera,P050,Project Quantum,Blockchain Developer,IT,Speciality Products,Male,Latino,33,Computer Science,"Solidity, Ethereum",5/12/2019,,4,4,"$107,000 ","Web3.js, Truffle",N
+E10299,Clara Bryant,P050,Project Quantum,Digital Marketer,Marketing,Speciality Products,Female,Caucasian,29,Marketing,"PPC, Analytics",10/5/2020,,3,3,"$81,000 ","Google Ads, HubSpot",N
+E10300,Lucas Alexander,P050,Project Quantum,Embedded Engineer,Engineering,Speciality Products,Male,Caucasian,37,Electrical Engineering,"C, RTOS",4/22/2016,,7,5,"$113,000 ","ARM, FreeRTOS",N
+E10301,Sophia Mitchell,P051,Project Nova,Data Scientist,IT,Research & Development,Female,Caucasian,31,Data Science,"Python, Machine Learning",8/15/2019,,4,4,"$104,000 ","TensorFlow, Scikit-learn",N
+E10302,Jacob Carter,P051,Project Nova,DevOps Engineer,IT,Research & Development,Male,Black,36,Computer Engineering,"AWS, Kubernetes",3/22/2017,,6,5,"$116,000 ","Docker, Terraform",N
+E10303,Emma Stewart,P051,Project Nova,UX Designer,IT,Research & Development,Female,Asian,28,Design,"Figma, User Research",11/10/2020,,3,4,"$89,000 ","Adobe XD, Sketch",N
+E10304,Michael Phillips,P051,Project Nova,Product Owner,IT,Research & Development,Male,Caucasian,40,Business Administration,"Agile, Scrum",5/18/2015,,8,5,"$122,000 ","Jira, Confluence",N
+E10305,Olivia Simmons,P051,Project Nova,Frontend Developer,IT,Research & Development,Female,Latino,27,Computer Science,"React, TypeScript",2/14/2021,,2,3,"$84,000 ","Next.js, Redux",N
+E10306,William Foster,P052,Project Titan II,Backend Engineer,IT,Corporate,Male,Caucasian,34,Computer Science,"Java, Spring Boot",7/8/2018,,5,4,"$99,000 ","Microservices, Kafka",N
+E10307,Ava Patterson,P052,Project Titan II,Financial Analyst,Finance,Corporate,Female,Black,30,Finance,"Excel, Financial Modeling",9/22/2019,,4,4,"$86,000 ","SAP, Power BI",N
+E10308,James Hughes,P052,Project Titan II,Cloud Architect,IT,Corporate,Male,Asian,42,Computer Engineering,"AWS, Azure",1/10/2016,,7,5,"$132,000 ","Terraform, Ansible",N
+E10309,Charlotte Sanders,P052,Project Titan II,HR Business Partner,Human Resources,Corporate,Female,Caucasian,35,Human Resources,Employee Relations,4/5/2017,,6,4,"$94,000 ","Workday, BambooHR",N
+E10310,Benjamin Barnes,P052,Project Titan II,Security Engineer,IT,Corporate,Male,Caucasian,37,Cybersecurity,"SIEM, Firewalls",6/20/2016,,7,4,"$114,000 ","Splunk, Nessus",N
+E10311,Amelia Coleman,P053,Project Echo,Data Engineer,IT,Manufacturing,Female,Caucasian,32,Computer Science,"Spark, Python",10/12/2018,,5,5,"$109,000 ","Airflow, AWS",N
+E10312,Daniel Russell,P053,Project Echo,QA Lead,IT,Manufacturing,Male,Latino,39,Computer Science,Automation Testing,11/30/2015,,8,5,"$106,000 ","Selenium, TestNG",N
+E10313,Mia Griffin,P053,Project Echo,Marketing Manager,Marketing,Manufacturing,Female,Asian,44,Marketing,Campaign Strategy,4/15/2012,,11,4,"$97,000 ","Google Ads, HubSpot",N
+E10314,Matthew Henderson,P053,Project Echo,Full Stack Developer,IT,Manufacturing,Male,Caucasian,33,Computer Science,"JavaScript, Node.js",7/15/2019,,4,4,"$97,000 ",MERN Stack,N
+E10315,Harper Jenkins,P053,Project Echo,Technical Writer,Marketing,Manufacturing,Female,Black,26,English,Documentation,12/1/2021,,2,3,"$63,000 ","Markdown, Confluence",N
+E10316,Ethan Perry,P054,Project Orion II,System Administrator,IT,Speciality Products,Male,Caucasian,38,Information Technology,"Linux, Bash",5/18/2016,,7,4,"$91,000 ","Python, Shell Scripting",N
+E10317,Abigail Long,P054,Project Orion II,UX Researcher,IT,Speciality Products,Female,Asian,29,Psychology,User Testing,3/5/2020,,3,4,"$84,000 ","Qualtrics, Figma",N
+E10318,Alexander Flores,P054,Project Orion II,Network Engineer,IT,Speciality Products,Male,Latino,36,Network Engineering,"Cisco, VPN",3/5/2017,,6,4,"$103,000 ","CCNA, Firewalls",N
+E10319,Ella Washington,P054,Project Orion II,Recruiter,Human Resources,Speciality Products,Female,Black,31,Psychology,Talent Acquisition,11/20/2019,,4,3,"$77,000 ","LinkedIn, Greenhouse",N
+E10320,Jackson Butler,P054,Project Orion II,Mobile Developer,IT,Speciality Products,Male,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$93,000 ","iOS, Android",N
+E10321,Scarlett Price,P055,Project Helios II,AI Engineer,Engineering,Research & Development,Female,Caucasian,40,Computer Science,"Python, Deep Learning",8/30/2015,,8,5,"$126,000 ","TensorFlow, PyTorch",N
+E10322,Lucas Scott,P055,Project Helios II,Data Analyst,Finance,Research & Development,Male,Caucasian,28,Statistics,"R, Excel",3/15/2019,,4,3,"$83,000 ","Python, Tableau",N
+E10323,Lily Morgan,P055,Project Helios II,DevOps Lead,IT,Research & Development,Female,Asian,37,Computer Engineering,"AWS, CI/CD",7/22/2017,,6,5,"$119,000 ","Kubernetes, Jenkins",N
+E10324,Henry Bennett,P055,Project Helios II,Product Designer,IT,Research & Development,Male,Caucasian,30,Design,UI/UX Design,10/12/2019,,4,4,"$93,000 ","Figma, Sketch",N
+E10325,Zoe Howard,P055,Project Helios II,Scrum Master,IT,Research & Development,Female,Latino,45,Business Management,Agile Coaching,10/12/2014,,9,4,"$101,000 ","Jira, Confluence",N
+E10326,Owen Ward,P056,Project Vega II,Frontend Lead,IT,Corporate,Male,Caucasian,35,Computer Science,"React, TypeScript",9/12/2018,,5,5,"$113,000 ","Next.js, GraphQL",N
+E10327,Victoria Cox,P056,Project Vega II,Data Engineer,Finance,Corporate,Female,Asian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$95,000 ","Airflow, AWS",N
+E10328,Nathan Rivera,P056,Project Vega II,Site Reliability Engineer,IT,Corporate,Male,Latino,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$117,000 ","Prometheus, Grafana",N
+E10329,Hannah Brooks,P056,Project Vega II,UX Designer,IT,Corporate,Female,Caucasian,28,Design,User Flows,11/18/2020,,3,4,"$87,000 ","Figma, Sketch",N
+E10330,Andrew Hayes,P056,Project Vega II,Technical Program Manager,IT,Corporate,Male,Black,44,Business Administration,Project Planning,2/14/2013,,10,5,"$124,000 ","Jira, Confluence",N
+E10331,Addison Simmons,P057,Project Sirius II,Data Architect,IT,Manufacturing,Female,Caucasian,41,Computer Science,Data Modeling,10/12/2015,,8,5,"$121,000 ","SQL, Snowflake",N
+E10332,Luke Powell,P057,Project Sirius II,Product Manager,IT,Manufacturing,Male,Asian,37,Business Administration,Product Roadmap,6/18/2017,,6,4,"$114,000 ","Jira, Miro",N
+E10333,Aubrey Foster,P057,Project Sirius II,IT Consultant,IT,Manufacturing,Female,Caucasian,34,Information Systems,IT Strategy,4/22/2019,,4,4,"$97,000 ","PowerPoint, Visio",N
+E10334,Christopher Bryant,P057,Project Sirius II,Business Intelligence,Finance,Manufacturing,Male,Black,31,Statistics,"Power BI, SQL",8/5/2020,,3,3,"$86,000 ","Tableau, Excel",N
+E10335,Penelope Alexander,P057,Project Sirius II,Automation Engineer,Engineering,Manufacturing,Female,Caucasian,39,Electrical Engineering,"PLC, Robotics",5/10/2016,,7,5,"$107,000 ","Python, ROS",N
+E10336,Julian Reed,P058,Project Nebula II,Blockchain Developer,IT,Research & Development,Male,Caucasian,33,Computer Science,"Solidity, Ethereum",5/12/2019,,4,4,"$106,000 ","Web3.js, Truffle",N
+E10337,Layla Coleman,P058,Project Nebula II,Digital Marketer,Marketing,Research & Development,Female,Black,29,Marketing,"PPC, Analytics",10/5/2020,,3,3,"$80,000 ","Google Ads, HubSpot",N
+E10338,Gabriel Bailey,P058,Project Nebula II,Embedded Engineer,Engineering,Research & Development,Male,Asian,37,Electrical Engineering,"C, RTOS",4/22/2016,,7,5,"$112,000 ","ARM, FreeRTOS",N
+E10339,Elena Ward,P058,Project Nebula II,Content Strategist,Marketing,Research & Development,Female,Caucasian,29,Communications,"SEO, Copywriting",1/15/2021,,2,3,"$72,000 ","WordPress, SEMrush",N
+E10340,David Murphy,P058,Project Nebula II,QA Analyst,IT,Research & Development,Male,Caucasian,26,Computer Science,Test Cases,6/10/2021,,2,3,"$67,000 ","Selenium, JIRA",N
+E10341,Maya Rivera,P059,Project Quantum II,AI Researcher,Engineering,Speciality Products,Female,Latino,39,Computer Science,"Python, NLP",7/25/2016,,7,5,"$127,000 ","PyTorch, Transformers",N
+E10342,Owen Collins,P059,Project Quantum II,Financial Controller,Finance,Speciality Products,Male,Caucasian,33,Accounting,"GAAP, Forecasting",9/10/2018,,5,4,"$91,000 ","QuickBooks, Excel",N
+E10343,Stella Bennett,P059,Project Quantum II,Cloud Engineer,IT,Speciality Products,Female,Black,36,Computer Engineering,"AWS, Azure",3/15/2017,,6,4,"$109,000 ","Terraform, Ansible",N
+E10344,Leo Evans,P059,Project Quantum II,Talent Acquisition,Human Resources,Speciality Products,Male,Caucasian,30,Psychology,Recruiting Strategies,11/20/2019,,4,3,"$77,000 ","LinkedIn, Greenhouse",N
+E10345,Ariana Parker,P059,Project Quantum II,Mobile Developer,IT,Speciality Products,Female,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$93,000 ","iOS, Android",N
+E10346,Henry Turner,P060,Project Aether II,Frontend Developer,IT,Manufacturing,Male,Caucasian,27,Computer Science,"React, TypeScript",1/15/2021,,2,3,"$83,000 ","React, Redux",N
+E10347,Chloe Simmons,P060,Project Aether II,Data Engineer,Finance,Manufacturing,Female,Asian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$95,000 ","Airflow, AWS",N
+E10348,Samuel Griffin,P060,Project Aether II,Site Reliability Engineer,IT,Manufacturing,Male,Caucasian,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$117,000 ","Prometheus, Grafana",N
+E10349,Victoria Foster,P060,Project Aether II,UX Designer,IT,Manufacturing,Female,Caucasian,28,Design,User Flows,11/18/2020,,3,4,"$87,000 ","Figma, Sketch",N
+E10350,Andrew Bryant,P060,Project Aether II,Technical Program Manager,IT,Manufacturing,Male,Black,44,Business Administration,Project Planning,2/14/2013,,10,5,"$123,000 ","Jira, Confluence",N
+E10351,Zoe Alexander,P061,Project Nova II,Data Scientist,IT,Research & Development,Female,Caucasian,31,Data Science,"Python, Machine Learning",8/15/2019,,4,4,"$103,000 ","TensorFlow, Scikit-learn",N
+E10352,Lucas Howard,P061,Project Nova II,DevOps Engineer,IT,Research & Development,Male,Black,36,Computer Engineering,"AWS, Kubernetes",3/22/2017,,6,5,"$115,000 ","Docker, Terraform",N
+E10353,Emma Stewart,P061,Project Nova II,UX Designer,IT,Research & Development,Female,Asian,28,Design,"Figma, User Research",11/10/2020,,3,4,"$88,000 ","Adobe XD, Sketch",N
+E10354,Michael Phillips,P061,Project Nova II,Product Owner,IT,Research & Development,Male,Caucasian,40,Business Administration,"Agile, Scrum",5/18/2015,,8,5,"$121,000 ","Jira, Confluence",N
+E10355,Olivia Simmons,P061,Project Nova II,Frontend Developer,IT,Research & Development,Female,Latino,27,Computer Science,"React, TypeScript",2/14/2021,,2,3,"$83,000 ","Next.js, Redux",N
+E10356,William Foster,P062,Project Titan III,Backend Engineer,IT,Corporate,Male,Caucasian,34,Computer Science,"Java, Spring Boot",7/8/2018,,5,4,"$98,000 ","Microservices, Kafka",N
+E10357,Ava Patterson,P062,Project Titan III,Financial Analyst,Finance,Corporate,Female,Black,30,Finance,"Excel, Financial Modeling",9/22/2019,,4,4,"$85,000 ","SAP, Power BI",N
+E10358,James Hughes,P062,Project Titan III,Cloud Architect,IT,Corporate,Male,Asian,42,Computer Engineering,"AWS, Azure",1/10/2016,,7,5,"$131,000 ","Terraform, Ansible",N
+E10359,Charlotte Sanders,P062,Project Titan III,HR Business Partner,Human Resources,Corporate,Female,Caucasian,35,Human Resources,Employee Relations,4/5/2017,,6,4,"$93,000 ","Workday, BambooHR",N
+E10360,Benjamin Barnes,P062,Project Titan III,Security Engineer,IT,Corporate,Male,Caucasian,37,Cybersecurity,"SIEM, Firewalls",6/20/2016,,7,4,"$113,000 ","Splunk, Nessus",N
+E10361,Amelia Coleman,P063,Project Echo II,Data Engineer,IT,Manufacturing,Female,Caucasian,32,Computer Science,"Spark, Python",10/12/2018,,5,5,"$108,000 ","Airflow, AWS",N
+E10362,Daniel Russell,P063,Project Echo II,QA Lead,IT,Manufacturing,Male,Latino,39,Computer Science,Automation Testing,11/30/2015,,8,5,"$105,000 ","Selenium, TestNG",N
+E10363,Mia Griffin,P063,Project Echo II,Marketing Manager,Marketing,Manufacturing,Female,Asian,44,Marketing,Campaign Strategy,4/15/2012,,11,4,"$96,000 ","Google Ads, HubSpot",N
+E10364,Matthew Henderson,P063,Project Echo II,Full Stack Developer,IT,Manufacturing,Male,Caucasian,33,Computer Science,"JavaScript, Node.js",7/15/2019,,4,4,"$96,000 ",MERN Stack,N
+E10365,Harper Jenkins,P063,Project Echo II,Technical Writer,Marketing,Manufacturing,Female,Black,26,English,Documentation,12/1/2021,,2,3,"$62,000 ","Markdown, Confluence",N
+E10366,Ethan Perry,P064,Project Orion III,System Administrator,IT,Speciality Products,Male,Caucasian,38,Information Technology,"Linux, Bash",5/18/2016,,7,4,"$90,000 ","Python, Shell Scripting",N
+E10367,Abigail Long,P064,Project Orion III,UX Researcher,IT,Speciality Products,Female,Asian,29,Psychology,User Testing,3/5/2020,,3,4,"$83,000 ","Qualtrics, Figma",N
+E10368,Alexander Flores,P064,Project Orion III,Network Engineer,IT,Speciality Products,Male,Latino,36,Network Engineering,"Cisco, VPN",3/5/2017,,6,4,"$102,000 ","CCNA, Firewalls",N
+E10369,Ella Washington,P064,Project Orion III,Recruiter,Human Resources,Speciality Products,Female,Black,31,Psychology,Talent Acquisition,11/20/2019,,4,3,"$76,000 ","LinkedIn, Greenhouse",N
+E10370,Jackson Butler,P064,Project Orion III,Mobile Developer,IT,Speciality Products,Male,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$92,000 ","iOS, Android",N
+E10371,Scarlett Price,P065,Project Helios III,AI Engineer,Engineering,Research & Development,Female,Caucasian,40,Computer Science,"Python, Deep Learning",8/30/2015,,8,5,"$125,000 ","TensorFlow, PyTorch",N
+E10372,Lucas Scott,P065,Project Helios III,Data Analyst,Finance,Research & Development,Male,Caucasian,28,Statistics,"R, Excel",3/15/2019,,4,3,"$82,000 ","Python, Tableau",N
+E10373,Lily Morgan,P065,Project Helios III,DevOps Lead,IT,Research & Development,Female,Asian,37,Computer Engineering,"AWS, CI/CD",7/22/2017,,6,5,"$118,000 ","Kubernetes, Jenkins",N
+E10374,Henry Bennett,P065,Project Helios III,Product Designer,IT,Research & Development,Male,Caucasian,30,Design,UI/UX Design,10/12/2019,,4,4,"$92,000 ","Figma, Sketch",N
+E10375,Zoe Howard,P065,Project Helios III,Scrum Master,IT,Research & Development,Female,Latino,45,Business Management,Agile Coaching,10/12/2014,,9,4,"$100,000 ","Jira, Confluence",N
+E10376,Owen Ward,P066,Project Vega III,Frontend Lead,IT,Corporate,Male,Caucasian,35,Computer Science,"React, TypeScript",9/12/2018,,5,5,"$112,000 ","Next.js, GraphQL",N
+E10377,Victoria Cox,P066,Project Vega III,Data Engineer,Finance,Corporate,Female,Asian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$94,000 ","Airflow, AWS",N
+E10378,Nathan Rivera,P066,Project Vega III,Site Reliability Engineer,IT,Corporate,Male,Latino,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$116,000 ","Prometheus, Grafana",N
+E10379,Hannah Brooks,P066,Project Vega III,UX Designer,IT,Corporate,Female,Caucasian,28,Design,User Flows,11/18/2020,,3,4,"$86,000 ","Figma, Sketch",N
+E10380,Andrew Hayes,P066,Project Vega III,Technical Program Manager,IT,Corporate,Male,Black,44,Business Administration,Project Planning,2/14/2013,,10,5,"$123,000 ","Jira, Confluence",N
+E10381,Addison Simmons,P067,Project Sirius III,Data Architect,IT,Manufacturing,Female,Caucasian,41,Computer Science,Data Modeling,10/12/2015,,8,5,"$120,000 ","SQL, Snowflake",N
+E10382,Luke Powell,P067,Project Sirius III,Product Manager,IT,Manufacturing,Male,Asian,37,Business Administration,Product Roadmap,6/18/2017,,6,4,"$113,000 ","Jira, Miro",N
+E10383,Aubrey Foster,P067,Project Sirius III,IT Consultant,IT,Manufacturing,Female,Caucasian,34,Information Systems,IT Strategy,4/22/2019,,4,4,"$96,000 ","PowerPoint, Visio",N
+E10384,Christopher Bryant,P067,Project Sirius III,Business Intelligence,Finance,Manufacturing,Male,Black,31,Statistics,"Power BI, SQL",8/5/2020,,3,3,"$85,000 ","Tableau, Excel",N
+E10385,Penelope Alexander,P067,Project Sirius III,Automation Engineer,Engineering,Manufacturing,Female,Caucasian,39,Electrical Engineering,"PLC, Robotics",5/10/2016,,7,5,"$106,000 ","Python, ROS",N
+E10386,Julian Reed,P068,Project Nebula III,Blockchain Developer,IT,Research & Development,Male,Caucasian,33,Computer Science,"Solidity, Ethereum",5/12/2019,,4,4,"$105,000 ","Web3.js, Truffle",N
+E10387,Layla Coleman,P068,Project Nebula III,Digital Marketer,Marketing,Research & Development,Female,Black,29,Marketing,"PPC, Analytics",10/5/2020,,3,3,"$79,000 ","Google Ads, HubSpot",N
+E10388,Gabriel Bailey,P068,Project Nebula III,Embedded Engineer,Engineering,Research & Development,Male,Asian,37,Electrical Engineering,"C, RTOS",4/22/2016,,7,5,"$111,000 ","ARM, FreeRTOS",N
+E10389,Elena Ward,P068,Project Nebula III,Content Strategist,Marketing,Research & Development,Female,Caucasian,29,Communications,"SEO, Copywriting",1/15/2021,,2,3,"$71,000 ","WordPress, SEMrush",N
+E10390,David Murphy,P068,Project Nebula III,QA Analyst,IT,Research & Development,Male,Caucasian,26,Computer Science,Test Cases,6/10/2021,,2,3,"$66,000 ","Selenium, JIRA",N
+E10391,Maya Rivera,P069,Project Quantum III,AI Researcher,Engineering,Speciality Products,Female,Latino,39,Computer Science,"Python, NLP",7/25/2016,,7,5,"$126,000 ","PyTorch, Transformers",N
+E10392,Owen Collins,P069,Project Quantum III,Financial Controller,Finance,Speciality Products,Male,Caucasian,33,Accounting,"GAAP, Forecasting",9/10/2018,,5,4,"$90,000 ","QuickBooks, Excel",N
+E10393,Stella Bennett,P069,Project Quantum III,Cloud Engineer,IT,Speciality Products,Female,Black,36,Computer Engineering,"AWS, Azure",3/15/2017,,6,4,"$108,000 ","Terraform, Ansible",N
+E10394,Leo Evans,P069,Project Quantum III,Talent Acquisition,Human Resources,Speciality Products,Male,Caucasian,30,Psychology,Recruiting Strategies,11/20/2019,,4,3,"$76,000 ","LinkedIn, Greenhouse",N
+E10395,Ariana Parker,P069,Project Quantum III,Mobile Developer,IT,Speciality Products,Female,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$92,000 ","iOS, Android",N
+E10396,Henry Turner,P070,Project Aether III,Frontend Developer,IT,Manufacturing,Male,Caucasian,27,Computer Science,"React, TypeScript",1/15/2021,,2,3,"$82,000 ","React, Redux",N
+E10397,Chloe Simmons,P070,Project Aether III,Data Engineer,Finance,Manufacturing,Female,Asian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$94,000 ","Airflow, AWS",N
+E10398,Samuel Griffin,P070,Project Aether III,Site Reliability Engineer,IT,Manufacturing,Male,Caucasian,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$116,000 ","Prometheus, Grafana",N
+E10399,Victoria Foster,P070,Project Aether III,UX Designer,IT,Manufacturing,Female,Caucasian,28,Design,User Flows,11/18/2020,,3,4,"$86,000 ","Figma, Sketch",N
+E10400,Andrew Bryant,P070,Project Aether III,Technical Program Manager,IT,Manufacturing,Male,Black,44,Business Administration,Project Planning,2/14/2013,,10,5,"$122,000 ","Jira, Confluence",N
+E20001,Liam Patel,P101,Project Quantum,AI Engineer,Engineering,Research & Development,Male,Asian,41,Computer Science,"Python, TensorFlow",8/30/2015,,8,5,"$125,000 ","PyTorch, Kubernetes",N
+E20002,Sophia Nguyen,P102,Project Atlas,Data Scientist,IT,Corporate,Female,Asian,33,Data Science,"Python, SQL",6/20/2018,11/22/2022,4,5,"$105,000 ","Spark, Hadoop",Y
+E20003,Noah Garcia,P103,Project Helios,Frontend Developer,IT,Manufacturing,Male,Latino,27,Computer Science,"React, JavaScript",1/15/2021,,2,3,"$85,000 ","React, Redux",N
+E20004,Emma Kim,P104,Project Nebula,HR Specialist,Human Resources,Speciality Products,Female,Asian,34,Human Resources,"Recruiting, Onboarding",11/5/2018,,5,4,"$78,000 ","Workday, BambooHR",N
+E20005,Oliver Wright,P105,Project Aether,Cybersecurity Analyst,IT,Research & Development,Male,Caucasian,37,Cybersecurity,"SIEM, Firewalls",4/22/2017,8/10/2021,4,4,"$112,000 ","Splunk, Nessus",Y
+E20006,Ava Martinez,P106,Project Vega,Marketing Manager,Marketing,Corporate,Female,Latino,45,Marketing,"SEO, Analytics",4/15/2012,3/20/2021,9,4,"$95,000 ","Google Ads, HubSpot",Y
+E20007,Elijah Thompson,P107,Project Orion,Backend Developer,IT,Speciality Products,Male,Black,33,Computer Science,"Java, Spring",7/8/2018,,5,4,"$96,000 ","Kafka, PostgreSQL",N
+E20008,Isabella Lee,P108,Project Titan,Cloud Architect,IT,Manufacturing,Female,Asian,42,Computer Engineering,"AWS, GCP",2/14/2016,,7,5,"$130,000 ","Terraform, Docker",N
+E20009,James Brown,P109,Project Echo,QA Engineer,IT,Research & Development,Male,Caucasian,29,Computer Science,"Selenium, JIRA",7/18/2020,5/12/2022,2,3,"$70,000 ","TestNG, Appium",Y
+E20010,Mia Clark,P110,Project Nova,UX Researcher,IT,Corporate,Female,Caucasian,30,Psychology,"User Testing, Surveys",3/5/2020,,3,4,"$85,000 ","Figma, Qualtrics",N
+E20011,Benjamin Rodriguez,P111,Project Titan II,Financial Analyst,Finance,Manufacturing,Male,Latino,31,Finance,"Excel, Modeling",9/22/2019,,4,4,"$87,000 ","SAP, Power BI",N
+E20012,Charlotte Lewis,P112,Project Helios II,DevOps Lead,IT,Research & Development,Female,Caucasian,37,Computer Engineering,"AWS, CI/CD",7/22/2017,12/30/2021,4,5,"$119,000 ","Kubernetes, Jenkins",Y
+E20013,Lucas Walker,P113,Project Sirius,Product Designer,IT,Manufacturing,Male,Black,30,Design,"UI/UX, Prototyping",10/12/2019,,4,4,"$94,000 ","Figma, Sketch",N
+E20014,Amelia Hall,P114,Project Vega II,Recruiter,Human Resources,Corporate,Female,Caucasian,29,Psychology,Talent Sourcing,9/22/2020,6/15/2023,3,3,"$72,000 ","LinkedIn, Greenhouse",Y
+E20015,Henry Allen,P115,Project Aether II,Systems Engineer,Engineering,Speciality Products,Male,Caucasian,39,Electrical Engineering,"Linux, Bash",5/18/2016,,7,5,"$108,000 ","Python, Shell Scripting",N
+E20016,Harper Young,P116,Project Nebula II,Content Writer,Marketing,Manufacturing,Female,Caucasian,28,English,"Copywriting, Editing",2/14/2021,,2,3,"$65,000 ","WordPress, Grammarly",N
+E20017,Alexander Hernandez,P117,Project Quantum II,Blockchain Developer,IT,Research & Development,Male,Latino,33,Computer Science,"Solidity, Ethereum",5/12/2019,,4,4,"$107,000 ","Web3.js, Truffle",N
+E20018,Evelyn King,P118,Project Orion II,Data Engineer,IT,Speciality Products,Female,Black,32,Computer Science,"Spark, Python",10/12/2018,4/10/2022,3,5,"$109,000 ","Airflow, AWS",Y
+E20019,Daniel Scott,P119,Project Helios III,Scrum Master,IT,Corporate,Male,Caucasian,45,Business Management,"Agile, Kanban",10/12/2014,,9,4,"$100,000 ","Jira, Confluence",N
+E20020,Abigail Green,P120,Project Titan III,IT Support,IT,Manufacturing,Female,Caucasian,29,Information Technology,"Helpdesk, Troubleshooting",2/18/2020,,3,3,"$60,000 ","Windows, macOS",N
+E20021,Matthew Adams,P121,Project Echo II,Automation Engineer,Engineering,Manufacturing,Male,Asian,39,Electrical Engineering,"PLC, Robotics",5/10/2016,9/30/2021,5,5,"$108,000 ","Python, ROS",Y
+E20022,Elizabeth Nelson,P122,Project Nova II,Technical Writer,Marketing,Research & Development,Female,Caucasian,26,English,Documentation,12/1/2021,,1,3,"$62,000 ","Markdown, Confluence",N
+E20023,Jackson Baker,P123,Project Vega III,Mobile Developer,IT,Corporate,Male,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$94,000 ","iOS, Android",N
+E20024,Sofia Carter,P124,Project Sirius II,HR Manager,Human Resources,Manufacturing,Female,Latino,38,Human Resources,Employee Relations,8/17/2016,11/30/2021,5,5,"$95,000 ","Workday, ADP",Y
+E20025,David Mitchell,P125,Project Aether III,Full Stack Developer,IT,Speciality Products,Male,Caucasian,33,Computer Science,"JavaScript, Node.js",7/15/2019,,4,4,"$98,000 ",MERN Stack,N
+E20026,Victoria Perez,P126,Project Helios IV,Marketing Analyst,Marketing,Corporate,Female,Latino,29,Marketing,"SEO, Google Analytics",9/10/2020,,3,3,"$82,000 ","Google Ads, HubSpot",N
+E20027,Joseph Rivera,P127,Project Titan IV,Network Engineer,IT,Manufacturing,Male,Black,36,Network Engineering,"Cisco, VPN",3/5/2017,7/20/2022,5,4,"$103,000 ","CCNA, Firewalls",Y
+E20028,Scarlett Evans,P128,Project Echo III,UX Designer,IT,Research & Development,Female,Caucasian,28,Design,"User Flows, Prototyping",11/18/2020,,3,4,"$88,000 ","Figma, Sketch",N
+E20029,Samuel Turner,P129,Project Nova III,Product Owner,IT,Corporate,Male,Caucasian,40,Business Administration,"Roadmapping, Prioritization",5/18/2015,,8,5,"$122,000 ","Jira, Confluence",N
+E20030,Madison Phillips,P130,Project Quantum III,Financial Controller,Finance,Speciality Products,Female,Caucasian,33,Accounting,"GAAP, Forecasting",9/10/2018,2/28/2022,3,4,"$92,000 ","QuickBooks, Excel",Y
+E20031,Anthony Collins,P131,Project Helios V,Cloud Engineer,IT,Research & Development,Male,Black,36,Computer Engineering,"AWS, Azure",3/15/2017,,6,4,"$110,000 ","Terraform, Ansible",N
+E20032,Chloe Parker,P132,Project Sirius III,Data Architect,IT,Manufacturing,Female,Caucasian,41,Computer Science,"Data Modeling, ETL",10/12/2015,,8,5,"$122,000 ","SQL, Snowflake",N
+E20033,Christopher Edwards,P133,Project Vega IV,AI Researcher,Engineering,Corporate,Male,Caucasian,39,Computer Science,"Python, NLP",7/25/2016,10/15/2021,5,5,"$128,000 ","PyTorch, Transformers",Y
+E20034,Zoe Stewart,P134,Project Orion III,Database Admin,IT,Speciality Products,Female,Caucasian,36,Computer Science,"SQL, MongoDB",3/22/2017,,6,3,"$92,000 ","MySQL, PostgreSQL",N
+E20035,Andrew Sanchez,P135,Project Aether IV,Technical Program Manager,IT,Manufacturing,Male,Latino,44,Business Administration,Project Planning,2/14/2013,,10,5,"$125,000 ","Jira, Confluence",N
+E20036,Lily Morris,P136,Project Nova IV,QA Analyst,IT,Research & Development,Female,Caucasian,26,Computer Science,"Test Cases, Bug Tracking",6/10/2021,,2,3,"$68,000 ","Selenium, JIRA",N
+E20037,John Reed,P137,Project Helios VI,Embedded Engineer,Engineering,Manufacturing,Male,Asian,37,Electrical Engineering,"C, RTOS",4/22/2016,8/12/2021,5,5,"$113,000 ","ARM, FreeRTOS",Y
+E20038,Aubrey Cooper,P138,Project Sirius IV,Business Intelligence,Finance,Manufacturing,Female,Caucasian,31,Statistics,"Power BI, SQL",8/5/2020,,3,3,"$87,000 ","Tableau, Excel",N
+E20039,Dylan Ward,P139,Project Quantum IV,Digital Marketer,Marketing,Research & Development,Male,Caucasian,29,Marketing,"PPC, Analytics",10/5/2020,,3,3,"$81,000 ","Google Ads, HubSpot",N
+E20040,Nora Bennett,P140,Project Orion IV,IT Consultant,IT,Speciality Products,Female,Caucasian,34,Information Systems,IT Strategy,4/22/2019,1/30/2022,3,4,"$98,000 ","PowerPoint, Visio",Y
+E20041,Julian Simmons,P141,Project Aether V,Frontend Lead,IT,Corporate,Male,Black,35,Computer Science,"React, TypeScript",9/12/2018,,5,5,"$112,000 ","Next.js, GraphQL",N
+E20042,Addison Foster,P142,Project Nova V,Data Engineer,Finance,Research & Development,Female,Caucasian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$96,000 ","Airflow, AWS",N
+E20043,Levi Powell,P143,Project Helios VII,Site Reliability Engineer,IT,Manufacturing,Male,Asian,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,11/15/2021,4,5,"$118,000 ","Prometheus, Grafana",Y
+E20044,Hannah Flores,P144,Project Sirius V,Content Strategist,Marketing,Manufacturing,Female,Latino,29,Communications,"SEO, Copywriting",1/15/2021,,2,3,"$73,000 ","WordPress, SEMrush",N
+E20045,Gabriel Barnes,P145,Project Quantum V,Cybersecurity Engineer,IT,Corporate,Male,Caucasian,37,Cybersecurity,"SIEM, Pen Testing",6/20/2016,,7,4,"$114,000 ","Splunk, Nessus",N
+E20046,Elena Russell,P146,Project Orion V,HR Business Partner,Human Resources,Speciality Products,Female,Black,35,Human Resources,Employee Relations,4/5/2017,,6,4,"$94,000 ","Workday, BambooHR",N
+E20047,Luke Howard,P147,Project Aether VI,Backend Engineer,IT,Manufacturing,Male,Caucasian,34,Computer Science,"Java, Spring Boot",7/8/2018,3/10/2022,4,4,"$99,000 ","Microservices, Kafka",Y
+E20048,Stella Bryant,P148,Project Nova VI,Marketing Specialist,Marketing,Research & Development,Female,Caucasian,28,Marketing,"Social Media, Content",10/5/2020,,3,3,"$75,000 ","Hootsuite, Canva",N
+E20049,Owen Alexander,P149,Project Helios VIII,Systems Administrator,Engineering,Corporate,Male,Caucasian,40,Information Technology,"Linux, Networking",4/22/2015,,8,4,"$90,000 ","Bash, Python",N
+E20050,Maya Griffin,P150,Project Sirius VI,QA Lead,IT,Manufacturing,Female,Asian,39,Computer Science,"Automation, Manual Testing",11/30/2015,,8,5,"$105,000 ","Selenium, JIRA",N
+E20051,William Jenkins,P151,Project Quantum VI,AI Engineer,Engineering,Research & Development,Male,Caucasian,40,Computer Science,"Python, Deep Learning",8/30/2015,,8,5,"$126,000 ","TensorFlow, PyTorch",N
+E20052,Victoria Sanders,P152,Project Orion VI,Data Analyst,Finance,Speciality Products,Female,Caucasian,28,Statistics,"R, Excel",3/15/2019,,4,3,"$83,000 ","Python, Tableau",N
+E20053,Henry Coleman,P153,Project Aether VII,DevOps Lead,IT,Manufacturing,Male,Black,37,Computer Engineering,"AWS, CI/CD",7/22/2017,,6,5,"$119,000 ","Kubernetes, Jenkins",N
+E20054,Chloe Washington,P154,Project Nova VII,Product Designer,IT,Research & Development,Female,Asian,30,Design,UI/UX Design,10/12/2019,6/30/2022,3,4,"$93,000 ","Figma, Sketch",Y
+E20055,Samuel Butler,P155,Project Helios IX,Scrum Master,IT,Corporate,Male,Caucasian,45,Business Management,Agile Coaching,10/12/2014,,9,4,"$101,000 ","Jira, Confluence",N
+E20056,Penelope Murphy,P156,Project Sirius VII,Frontend Developer,IT,Manufacturing,Female,Caucasian,27,Computer Science,"React, TypeScript",2/14/2021,,2,3,"$84,000 ","Next.js, Redux",N
+E20057,Andrew Henderson,P157,Project Quantum VII,Cloud Architect,IT,Research & Development,Male,Asian,42,Computer Engineering,"AWS, Azure",1/10/2016,,7,5,"$132,000 ","Terraform, Ansible",N
+E20058,Addison Long,P158,Project Orion VII,UX Researcher,IT,Speciality Products,Female,Asian,29,Psychology,User Testing,3/5/2020,,3,4,"$84,000 ","Qualtrics, Figma",N
+E20059,Julian Price,P159,Project Aether VIII,Network Engineer,IT,Corporate,Male,Latino,36,Network Engineering,"Cisco, VPN",3/5/2017,,6,4,"$103,000 ","CCNA, Firewalls",N
+E20060,Layla Simmons,P160,Project Nova VIII,Recruiter,Human Resources,Speciality Products,Female,Black,31,Psychology,Talent Acquisition,11/20/2019,,4,3,"$77,000 ","LinkedIn, Greenhouse",N
+E20061,Gabriel Foster,P161,Project Helios X,Mobile Developer,IT,Manufacturing,Male,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$93,000 ","iOS, Android",N
+E20062,Elena Powell,P162,Project Sirius VIII,Data Scientist,IT,Research & Development,Female,Caucasian,31,Data Science,"Python, Machine Learning",8/15/2019,,4,4,"$104,000 ","TensorFlow, Scikit-learn",N
+E20063,Lucas Howard,P163,Project Quantum VIII,DevOps Engineer,IT,Corporate,Male,Black,36,Computer Engineering,"AWS, Kubernetes",3/22/2017,,6,5,"$116,000 ","Docker, Terraform",N
+E20064,Emma Stewart,P164,Project Orion VIII,UX Designer,IT,Speciality Products,Female,Asian,28,Design,"Figma, User Research",11/10/2020,,3,4,"$89,000 ","Adobe XD, Sketch",N
+E20065,Michael Phillips,P165,Project Aether IX,Product Owner,IT,Manufacturing,Male,Caucasian,40,Business Administration,"Agile, Scrum",5/18/2015,,8,5,"$122,000 ","Jira, Confluence",N
+E20066,Olivia Simmons,P166,Project Nova IX,Frontend Developer,IT,Research & Development,Female,Latino,27,Computer Science,"React, TypeScript",2/14/2021,,2,3,"$84,000 ","Next.js, Redux",N
+E20067,William Foster,P167,Project Helios XI,Backend Engineer,IT,Corporate,Male,Caucasian,34,Computer Science,"Java, Spring Boot",7/8/2018,,5,4,"$99,000 ","Microservices, Kafka",N
+E20068,Ava Patterson,P168,Project Sirius IX,Financial Analyst,Finance,Manufacturing,Female,Black,30,Finance,"Excel, Financial Modeling",9/22/2019,,4,4,"$86,000 ","SAP, Power BI",N
+E20069,James Hughes,P169,Project Quantum IX,Cloud Architect,IT,Research & Development,Male,Asian,42,Computer Engineering,"AWS, Azure",1/10/2016,5/20/2021,5,5,"$132,000 ","Terraform, Ansible",Y
+E20070,Charlotte Sanders,P170,Project Orion IX,HR Business Partner,Human Resources,Speciality Products,Female,Caucasian,35,Human Resources,Employee Relations,4/5/2017,,6,4,"$94,000 ","Workday, BambooHR",N
+E20071,Benjamin Barnes,P171,Project Aether X,Security Engineer,IT,Corporate,Male,Caucasian,37,Cybersecurity,"SIEM, Firewalls",6/20/2016,,7,4,"$114,000 ","Splunk, Nessus",N
+E20072,Amelia Coleman,P172,Project Nova X,Data Engineer,IT,Manufacturing,Female,Caucasian,32,Computer Science,"Spark, Python",10/12/2018,,5,5,"$109,000 ","Airflow, AWS",N
+E20073,Daniel Russell,P173,Project Helios XII,QA Lead,IT,Research & Development,Male,Latino,39,Computer Science,Automation Testing,11/30/2015,8/15/2021,6,5,"$106,000 ","Selenium, TestNG",Y
+E20074,Mia Griffin,P174,Project Sirius X,Marketing Manager,Marketing,Manufacturing,Female,Asian,44,Marketing,Campaign Strategy,4/15/2012,,11,4,"$97,000 ","Google Ads, HubSpot",N
+E20075,Matthew Henderson,P175,Project Quantum X,Full Stack Developer,IT,Corporate,Male,Caucasian,33,Computer Science,"JavaScript, Node.js",7/15/2019,,4,4,"$97,000 ",MERN Stack,N
+E20076,Harper Jenkins,P176,Project Orion X,Technical Writer,Marketing,Speciality Products,Female,Black,26,English,Documentation,12/1/2021,,2,3,"$63,000 ","Markdown, Confluence",N
+E20077,Ethan Perry,P177,Project Aether XI,System Administrator,IT,Manufacturing,Male,Caucasian,38,Information Technology,"Linux, Bash",5/18/2016,,7,4,"$91,000 ","Python, Shell Scripting",N
+E20078,Abigail Long,P178,Project Nova XI,UX Researcher,IT,Research & Development,Female,Asian,29,Psychology,User Testing,3/5/2020,,3,4,"$84,000 ","Qualtrics, Figma",N
+E20079,Alexander Flores,P179,Project Helios XIII,Network Engineer,IT,Speciality Products,Male,Latino,36,Network Engineering,"Cisco, VPN",3/5/2017,,6,4,"$103,000 ","CCNA, Firewalls",N
+E20080,Ella Washington,P180,Project Sirius XI,Recruiter,Human Resources,Corporate,Female,Black,31,Psychology,Talent Acquisition,11/20/2019,,4,3,"$77,000 ","LinkedIn, Greenhouse",N
+E20081,Jackson Butler,P181,Project Quantum XI,Mobile Developer,IT,Manufacturing,Male,Caucasian,32,Computer Science,"Swift, Kotlin",5/5/2020,,3,4,"$93,000 ","iOS, Android",N
+E20082,Scarlett Price,P182,Project Orion XII,AI Engineer,Engineering,Research & Development,Female,Caucasian,40,Computer Science,"Python, Deep Learning",8/30/2015,,8,5,"$126,000 ","TensorFlow, PyTorch",N
+E20083,Lucas Scott,P183,Project Nova XII,Data Analyst,Finance,Speciality Products,Male,Caucasian,28,Statistics,"R, Excel",3/15/2019,,4,3,"$83,000 ","Python, Tableau",N
+E20084,Lily Morgan,P184,Project Helios XIV,DevOps Lead,IT,Corporate,Female,Asian,37,Computer Engineering,"AWS, CI/CD",7/22/2017,,6,5,"$119,000 ","Kubernetes, Jenkins",N
+E20085,Henry Bennett,P185,Project Sirius XII,Product Designer,IT,Manufacturing,Male,Caucasian,30,Design,UI/UX Design,10/12/2019,,4,4,"$93,000 ","Figma, Sketch",N
+E20086,Zoe Howard,P186,Project Quantum XII,Scrum Master,IT,Research & Development,Female,Latino,45,Business Management,Agile Coaching,10/12/2014,,9,4,"$101,000 ","Jira, Confluence",N
+E20087,Owen Ward,P187,Project Orion XIII,Frontend Lead,IT,Speciality Products,Male,Caucasian,35,Computer Science,"React, TypeScript",9/12/2018,,5,5,"$112,000 ","Next.js, GraphQL",N
+E20088,Victoria Cox,P188,Project Nova XIII,Data Engineer,Finance,Corporate,Female,Asian,30,Computer Science,"Spark, Python",3/5/2020,,3,4,"$95,000 ","Airflow, AWS",N
+E20089,Nathan Rivera,P189,Project Helios XV,Site Reliability Engineer,IT,Manufacturing,Male,Latino,38,Computer Engineering,"Monitoring, CI/CD",7/22/2017,,6,5,"$117,000 ","Prometheus, Grafana",N
+E20090,Hannah Brooks,P190,Project Sirius XIII,UX Designer,IT,Research & Development,Female,Caucasian,28,Design,User Flows,11/18/2020,,3,4,"$87,000 ","Figma, Sketch",N
+E20091,Andrew Hayes,P191,Project Quantum XIII,Technical Program Manager,IT,Corporate,Male,Black,44,Business Administration,Project Planning,2/14/2013,,10,5,"$124,000 ","Jira, Confluence",N
+E20092,Addison Simmons,P192,Project Orion XIV,Data Architect,IT,Manufacturing,Female,Caucasian,41,Computer Science,Data Modeling,10/12/2015,,8,5,"$121,000 ","SQL, Snowflake",N
+E20093,Luke Powell,P193,Project Nova XIV,Product Manager,IT,Research & Development,Male,Asian,37,Business Administration,Product Roadmap,6/18/2017,,6,4,"$114,000 ","Jira, Miro",N
+E20094,Aubrey Foster,P194,Project Helios XVI,IT Consultant,IT,Speciality Products,Female,Caucasian,34,Information Systems,IT Strategy,4/22/2019,,4,4,"$97,000 ","PowerPoint, Visio",N
+E20095,Christopher Bryant,P195,Project Sirius XIV,Business Intelligence,Finance,Manufacturing,Male,Black,31,Statistics,"Power BI, SQL",8/5/2020,,3,3,"$86,000 ","Tableau, Excel",N
+E20096,Penelope Alexander,P196,Project Quantum XIV,Automation Engineer,Engineering,Corporate,Female,Caucasian,39,Electrical Engineering,"PLC, Robotics",5/10/2016,,7,5,"$107,000 ","Python, ROS",N
+E20097,Julian Reed,P197,Project Orion XV,Blockchain Developer,IT,Research & Development,Male,Caucasian,33,Computer Science,"Solidity, Ethereum",5/12/2019,,4,4,"$106,000 ","Web3.js, Truffle",N
+E20098,Layla Coleman,P198,Project Nova XV,Digital Marketer,Marketing,Speciality Products,Female,Black,29,Marketing,"PPC, Analytics",10/5/2020,,3,3,"$80,000 ","Google Ads, HubSpot",N
+E20099,Gabriel Bailey,P199,Project Helios XVII,Embedded Engineer,Engineering,Manufacturing,Male,Asian,37,Electrical Engineering,"C, RTOS",4/22/2016,,7,5,"$112,000 ","ARM, FreeRTOS",N
+E20100,Elena Ward,P200,Project Sirius XV,Content Strategist,Marketing,Research & Development,Female,Caucasian,29,Communications,"SEO, Copywriting",1/15/2021,,2,3,"$72,000 ","WordPress, SEMrush",N
