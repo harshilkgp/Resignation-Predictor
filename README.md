@@ -27,4 +27,4 @@ Skill matching is calculated using a Skill_Score based on top 20 skills
 
  **Live App**
 
-Coming soon!!
+https://resignation-predictor-if2qbxpwgh5piruj4rwips.streamlit.app/
