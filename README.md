@@ -25,5 +25,6 @@ Input features are one-hot encoded and aligned with the model
 
 Skill matching is calculated using a Skill_Score based on top 20 skills
 
-🚀 Live App
+ **Live App**
+
 Coming soon!!
