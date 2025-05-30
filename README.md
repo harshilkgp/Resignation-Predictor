@@ -18,7 +18,7 @@ One-click deployment with Streamlit Cloud
 
 Clean, bright, and responsive UI
 
-** Model
+**Model
 Trained with LightGBM on imbalanced data using SMOTE**
 
 Input features are one-hot encoded and aligned with the model
