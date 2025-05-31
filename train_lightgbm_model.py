@@ -56,7 +56,16 @@ lgb_model = lgb.LGBMClassifier(
     is_unbalance=True,
     min_data_in_leaf=1,
     min_gain_to_split=0.0,
-    random_state=42
+    random_state=42,
+    importance_type='split',
+    min_child_samples=20,
+    min_child_weight=0.001,
+    min_split_gain=0,
+    n_jobs=None,
+    num_leaves=31,
+    objective=None,
+    early_stopping_rounds=50,
+    boosting_type='gbdt'
 )
 
 lgb_model.fit(X_train_smote, y_train_smote)
